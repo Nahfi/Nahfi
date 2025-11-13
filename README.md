@@ -1,31 +1,21 @@
-# Hi, I'm Nafiz 👋
+# PHP & Laravel Developer | Next.js & React Native Developer
 
-I'm a **PHP & Laravel Developer** and **Next.js Enthusiast** with a passion for building **secure, scalable, and high-performance web applications**. I specialize in developing robust backend systems, dynamic frontends, and seamless integrations.  
+I build **secure, scalable web applications** with clean, maintainable code. I specialize in **full-stack development, API integration, and problem solving**, delivering efficient solutions for real-world business applications.  
 
-I am a **strong problem solver** who enjoys tackling challenging technical issues and optimizing solutions for real-world business needs. I take pride in writing **clean, maintainable, and efficient code** while keeping up with the latest web technologies and best practices.  
-
----
-
-## 💻 Skills
-
-**Backend:** PHP, Laravel, MySQL, RESTful APIs  
-**Frontend:** React.js, Next.js, Inertia.js, Tailwind CSS, jQuery  
-**Tools & Platforms:** Git, Docker, Composer, npm, VS Code  
-**Other Expertise:** Payment Gateway Integration, Email & SMS Marketing, E-commerce Development, API Design, Performance Optimization  
+Currently, I am working at **iGen IT Solutions**, contributing to **e-commerce platforms, trading systems, and ERP solutions**.  
 
 ---
 
-## 🌐 Connect with Me
+## 💻 Tech Stack
 
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: nafiz@example.com  
-- X (Twitter): [https://x.com/yourhandle](https://x.com/yourhandle)  
+**Backend:** PHP, Laravel, MySQL, REST APIs  
+**Frontend:** React.js, Next.js, Inertia.js, Tailwind CSS  
+**Mobile:** React Native  
+**Tools:** Git, Docker, Composer, npm, VS Code  
+**Expertise:** Developing **business solutions**, optimizing workflows, and creating **scalable systems**  
 
 ---
 
-## 🔹 About Me
+## 🌐 Connect
 
-- Passionate about solving complex problems and building scalable web solutions.  
-- Experienced in developing end-to-end applications from **backend architecture to frontend design**.  
-- Always learning and exploring **modern web technologies** to deliver innovative solutions.  
-- Strong believer in **clean code, collaboration, and continuous improvement**.  
+[X](https://x.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:nafiz@example.com)
