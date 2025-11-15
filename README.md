@@ -18,4 +18,4 @@ Currently, I am working at **iGen IT Solutions**, contributing to **e-commerce p
 
 ## 🌐 Connect
 
-[X](https://www.linkedin.com/in/0nafiz/) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:nafiz@example.com)
+[X](https://x.com/HasibulNafiz) • [LinkedIn](https://www.linkedin.com/in/0nafiz) • [Email](mailto:nafiz0khan1@@gmail.com)
